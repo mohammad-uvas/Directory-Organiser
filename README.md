@@ -16,6 +16,8 @@
 
 Once you have installed Node.js open the Command Prompt on the Directory Organiser folder. 
 
-run the node cli.js help and get the list of commands.
+run the node cli.js help to get the list of commands.
 
-After knowing the commands you can run them by node cli.js commandname and file path if required on command line.
+After knowing the commands you can run the command by writing 
+node cli.js commandname directorypath
+If directorypath is not given, then the current working directory is taken into consideration.
